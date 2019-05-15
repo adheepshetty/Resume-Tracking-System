@@ -41,3 +41,19 @@ project are.
 </ul>
 
 # Project System Design
+![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/systdesign.PNG)
+
+# 1st Viz
+![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/companyvsresume.PNG)
+
+# 2nd Viz
+![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/univvsresume.PNG)
+
+# 3rd Viz
+![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/jobfield_resume.PNG)
+
+
+
+
+
+
