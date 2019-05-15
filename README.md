@@ -44,16 +44,30 @@ project are.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/systdesign.PNG)
 
 # 1st Viz
+This sheet showcases a barchart containing information of distinct count
+of the resume which has been differentiated on the company work history of all the
+applicants.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/companyvsresume.PNG)
 
 # 2nd Viz
+This sheet shows a bubble graph containing information of distinct count of
+the resume which has been differentiated on the basis of their university.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/univvsresume.PNG)
 
 # 3rd Viz
+This sheet showcases a barchart containing information of distinct count of
+the resume which has been differentiated on the basis of the job title of the
+applicants.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/jobfield_resume.PNG)
 
 
-
+# Project Results
+A dashboard is a culmination of these sheets and we have created a dashboard of
+our sheets and published them on the Tableau Public Server wherein anyone can
+view and check out the results.
+Dashboard view:
+https://public.tableau.com/profile/suraj.nair1535#!/vizhome/Resumeactivitytracker/Da
+shboard1?publish=yes
 
 
 
