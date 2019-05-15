@@ -43,22 +43,23 @@ project are.
 # Project System Design
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/systdesign.PNG)
 
-# 1st Viz
+# Vizulizations
 This sheet showcases a barchart containing information of distinct count
 of the resume which has been differentiated on the company work history of all the
 applicants.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/companyvsresume.PNG)
 
-# 2nd Viz
 This sheet shows a bubble graph containing information of distinct count of
 the resume which has been differentiated on the basis of their university.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/univvsresume.PNG)
 
-# 3rd Viz
 This sheet showcases a barchart containing information of distinct count of
 the resume which has been differentiated on the basis of the job title of the
 applicants.
 ![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/jobfield_resume.PNG)
+
+This sheet show a barchart containing information of distinct count of resumes which has been differentiated on the basis of the degree achieved.
+![alt text](https://github.com/adheepshetty/Resume-Tracking-System/blob/master/project_images/degreevsresume.PNG)
 
 
 # Project Results
