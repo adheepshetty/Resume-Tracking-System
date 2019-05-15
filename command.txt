@@ -1,0 +1,30 @@
+source activate ai_project
+
+Kafka
+
+cd /Users/rajanpatel/Documents/selected_project/kafka 
+
+bin/zookeeper-server-start.sh config/zookeeper.properties
+
+bin/kafka-server-start.sh config/server.properties
+
+
+Mongo
+
+export PATH=/Users/rajanpatel/Documents/mongo/bin:$PATH
+
+mongod
+
+mongosqld
+
+mongo
+
+
+
+cd /Users/rajanpatel/Documents/selected_project/
+
+python kafka_client.py
+
+cd resume-scraper
+
+python indeed-scraper.py 

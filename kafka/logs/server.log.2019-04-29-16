@@ -1,0 +1,4 @@
+[2019-04-29 16:08:44,142] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-29 16:44:56,620] INFO [GroupCoordinator 0]: Member kafka-python-1.3.5-90ef6ff3-c31e-45eb-a60a-5d0bce7c8ad3 in group my-group has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2019-04-29 16:44:56,621] INFO [GroupCoordinator 0]: Preparing to rebalance group my-group in state PreparingRebalance with old generation 28 (__consumer_offsets-12) (reason: removing member kafka-python-1.3.5-90ef6ff3-c31e-45eb-a60a-5d0bce7c8ad3 on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2019-04-29 16:44:56,623] INFO [GroupCoordinator 0]: Group my-group with generation 29 is now empty (__consumer_offsets-12) (kafka.coordinator.group.GroupCoordinator)
