@@ -66,8 +66,7 @@ A dashboard is a culmination of these sheets and we have created a dashboard of
 our sheets and published them on the Tableau Public Server wherein anyone can
 view and check out the results.
 Dashboard view:
-https://public.tableau.com/profile/suraj.nair1535#!/vizhome/Resumeactivitytracker/Da
-shboard1?publish=yes
+https://public.tableau.com/profile/suraj.nair1535#!/vizhome/Resumeactivitytracker/Dashboard1?publish=yes
 
 
 
